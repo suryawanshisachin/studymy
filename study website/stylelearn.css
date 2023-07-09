@@ -1,0 +1,38 @@
+body
+{
+background-image:url("website.jpg");
+background-size: cover;
+}
+.more h1{
+text-align: center;
+text-decoration: none;
+color:rgb(232,120,190);
+}
+.more b{
+    color:red;
+    font-size: 20px;
+}
+#name1{
+display: inline;
+margin-right: 100px;
+margin-left: 50px;
+text-decoration: none;
+}
+#name2{
+    display: inline;
+    margin-right: 100px;
+    text-decoration: none;
+}
+#name3{
+    display: inline;
+    margin-right: 100px;
+    text-decoration: none;
+}
+#name4{
+    display: inline;
+    margin-right: 100px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
